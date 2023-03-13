@@ -1,2 +1,1 @@
-# Primer-repositorio
-mi primer repositorio de soy henry
+este proyecto es una prueba de como crear un repositorio en la nube y clonarlo en mi pc
